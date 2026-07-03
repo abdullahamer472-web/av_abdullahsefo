@@ -148,7 +148,7 @@ const translations = {
             exp3_desc:
             "5 channel manager",
 
-            exp4_title: "IT Specialist - Al-Alam Computer Office",
+            exp4_title: "IT Specialist - Al-Alam Al-hasoob Office",
             exp4_desc:
             "Office administration, customer support and IT services.",
 
@@ -320,7 +320,7 @@ const translations = {
             exp3_desc:
             "مسؤول 5 قنوات.",
 
-            exp4_title: "مختص تقنية معلومات - مكتب العالم للحاسبات",
+            exp4_title: "مختص تقنية معلومات - مكتب العالم الحاسوب",
             exp4_desc:
             "إدارة المكتب وخدمة الزبائن وتقديم خدمات تقنية المعلومات.",
 
@@ -493,7 +493,7 @@ const translations = {
             exp3_desc:
             "5 kanallı yönetici.",
 
-            exp4_title: "BT Uzmanı - Al-Alam Bilgisayar Ofisi",
+            exp4_title: "BT Uzmanı - Al-Alam Al-hasoob Ofisi",
             exp4_desc:
             "Ofis yönetimi, müşteri desteği ve bilgi teknolojileri hizmetleri.",
 
