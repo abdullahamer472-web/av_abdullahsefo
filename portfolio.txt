@@ -1,0 +1,26 @@
+Portfolio/
+│
+├── index.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   ├── script.js
+│   ├── language.js
+│   └── darkmode.js
+│
+├── assets/
+│   ├── img/
+│   │   ├── profile.jpg
+│   │   ├── logo.png
+│   │   └── favicon.png
+│   │
+│   ├── cv/
+│   │   ├── Abdullah_Ar.pdf
+│   │   ├── Abdullah_Tr.pdf
+│   │   └── Abdullah_En.pdf
+│   │
+│   └── icons/
